@@ -1,9 +1,9 @@
 fn test(theweirdnumber: i32) {
-  if theweirdnumber == 666 {
-    println!("CONSOLE.....");
+  if theweirdnumber == 1 {
+    println!("Hello world!");
   }
   if theweirdnumber == 333 {
-    println!("HALF OF THE NUMBER..");
+    println!("Umm.");
   }
   if theweirdnumber == 123 {
     println!("Nice!")
